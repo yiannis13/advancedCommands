@@ -1,0 +1,10 @@
+One of the most important and yet often misunderstood parts of programming in a language like JavaScript 
+is how to express and manipulate program behavior spread out over a period of time.
+
+commit #1: Initial commit during squash example.
+
+commit #2: Initial commit during squash example.
+
+commit #3: Initial commit during squash example.
+
+commit #4: Initial commit during squash example.
